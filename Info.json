@@ -1,0 +1,14 @@
+﻿{
+  "AssemblyName": "OwlcatModTemplateLoadFix.dll",
+  "Author": "AlterAsc",
+  "DisplayName": "OwlcatModTemplateLoadFix",
+  "EntryMethod": "OwlcatModTemplateLoadFix.Main.Load",
+  "GameVersion": "2.0.0",
+  "HomePage": "https://github.com/alterasc/OwlcatModTemplateLoadFix/releases",
+  "Id": "OwlcatModTemplateLoadFix",
+  "ManagerVersion": "0.23.0",
+  "Repository": "https://raw.githubusercontent.com/alterasc/OwlcatModTemplateLoadFix/master/Repository.json",
+  "Requirements": [],
+  "LoadAfter": [],
+  "Version": "1.0.0"
+}
