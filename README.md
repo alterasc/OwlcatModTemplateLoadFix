@@ -1,5 +1,7 @@
 # Owlcat Mod Template Load Fix
 
+# NO LONGER NEEDED. CURRENT GAME VERSION SUPPORTS TEMPLATE MODS NORMALLY.
+
 Fixes error when loading mods that use Owlcat Mod Template (Homebrew Archetypes, Great Radiance, Camelia Romance Expanded, etc )
 
 This mod can break completely as soon as Owlcat changes something, so if you have any problems, remove it immediately when troubleshooting.   
